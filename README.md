@@ -1,6 +1,6 @@
 ## olá bem vindo a minha conta 👋
 
-🌻 Meu nome é Laís 
+🌻 Meu nome é Laís 🌻
 
 -Estou estudando no alura
 
